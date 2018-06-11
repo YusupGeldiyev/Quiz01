@@ -1,1 +1,1 @@
-# Quiz01
+# Quiz01 (Yusup Geldiyev)
