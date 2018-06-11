@@ -11,7 +11,7 @@ by multiplying given matrix and given vector. finally, it returns the result bac
       for j in range(len(vector)):
         #runs for the columns of new vector
         total += matrix[i][j] * vector[j]
-  result.append(total)
+      result.append(total)
   # the amount of columns in the matrix hast to be the amount as the raws in the vector
   return result
 
